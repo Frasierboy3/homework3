@@ -1,0 +1,41 @@
+.container{
+    margin-top: 175px;
+}
+body, html{
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: flex-start;
+    display: inline-flex;
+}
+
+.card-body{
+    text-decoration: none;
+}
+.password {
+    height: fit-content;
+    width: fit-content;
+    float: left;
+    display:inline-block;
+}
+.passlink{
+    height: fit-content;
+    width: fit-content;
+    display: inline-block;
+    float: right;
+    text-decoration: none;
+}
+.button{
+    border-color: black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.card-text{
+    text-decoration: none;
+    height: fit-content;
+    width: fit-content;
+    display: inline-block;
+}
+h4{
+    color:rgb(194, 194, 194);
+ }
